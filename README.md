@@ -3,6 +3,8 @@ ROS library for Pololu Romi with Raspberry Pi.
 
 Some code here is borrowed from Pololu, others from various Arduino library writers. All right reserved by their respective owners. Please proceed with caution.
 
+ChaudierNoire forked this repository to see about setting it up to work with ROS 2 Foxy Fitzroy.
+
 CONTENTS:
 Arduino				- Arduino sketch folder
 examples			- run these once you've completed setup
